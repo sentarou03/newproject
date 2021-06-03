@@ -17,7 +17,7 @@ const IndexPage = () => (
     <h1>Hi people</h1>
     <p class="atten">※この漫画は1分で読めます※</p>
     <StaticImage
-      src="../images/0430_A.gif"
+      src="../images/0430.gif"
       width={600}
       quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
